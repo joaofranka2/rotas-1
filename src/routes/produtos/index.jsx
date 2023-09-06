@@ -1,4 +1,4 @@
-export default function produtos(){
+export default function Produtos(){
 
     return(
         <main>
